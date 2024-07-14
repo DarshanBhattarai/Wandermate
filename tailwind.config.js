@@ -9,6 +9,10 @@ module.exports = {
         bodoni: ['Cinzel', 'serif'],
 
         raleway: ['Raleway', 'serif'],
+
+        ubuntu: ['Ubuntu', 'serif'],
+
+        quicksand: ['Quicksand', 'serif']
       },
     },
   },
