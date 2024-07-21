@@ -10,9 +10,10 @@ module.exports = {
 
         raleway: ['Raleway', 'serif'],
 
-        ubuntu: ['Ubuntu', 'serif'],
+        dm : ['DM Sans', 'sans-serif'],
 
-        quicksand: ['Quicksand', 'serif']
+        quicksand : ['Quicksand', 'serif']
+
       },
     },
   },

@@ -50,6 +50,7 @@ const HotelList = () => {
           ))}
         </ul>
       </div>
+      
     </>
   );
 };

@@ -41,7 +41,7 @@ const LandingPg = () => {
             className="w-full h-full object-cover rounded-lg opacity-60 hover:opacity-100 transition-all duration-300 transform hover:scale-105"
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 0.6, scale: 1 }}
-            transition={{ duration: 0.5, delay: 0.4 }}
+            transition={{ duration: 0.5, delay: 0.3 }}
             whileHover={{ opacity: 1, scale: 1.05 }}
           />
           <motion.img

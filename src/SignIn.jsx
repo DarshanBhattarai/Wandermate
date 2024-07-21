@@ -28,7 +28,7 @@ const SignIn = () => {
       formData.username === storedUser.username &&
       formData.password === storedUser.password
     ) {
-      navigate("/component1");
+      navigate("/Home");
     } else {
       setError("Invalid username or password. Please try again.");
     }

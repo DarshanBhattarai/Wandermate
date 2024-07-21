@@ -1,270 +1,331 @@
 {
-    "destination": [
-      {
-        "id": "1",
-        "title": "Solukhumbu",
-        "weather": "rainy",
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/ygmdtppexv58ngfcakt6",
-        "desc": "Nestled amidst the majestic Himalayas, Solukhumbu is a treasure trove of natural beauty and cultural richness. Home to the iconic Mount Everest, it beckons adventurers and peace-seekers alike with its serene landscapes and vibrant Sherpa heritage. Imagine embarking on the legendary Everest Base Camp trek, where each step unfolds panoramic vistas and brings you closer to the highest point on Earth. Enrich your spirit at the ancient Tengboche Monastery, a sanctuary of tranquility and faith, set against the backdrop of awe-inspiring peaks. The pristine Gokyo Lakes, with their crystal-clear waters reflecting the sky, offer a moment of reflection and wonder. Whether it's the thrill of landing at the daring Lukla Airport or the allure of witnessing the Khumbu Glacier's grandeur, Solukhumbu is an experience that transcends the ordinary, promising memories that will elevate your soul"
-      },
-      {
-        "id": "2",
-        "title": "Boudha",
-        "weather": "sunny",
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/bjyr3hehjb04e4m67nnb",
-        "desc": "Boudha, the heart of Kathmandu's spiritual life, is an enchanting destination that promises a journey through serenity and tradition. At its core stands the magnificent Boudhanath Stupa, a UNESCO World Heritage site and one of the largest stupas in the world, radiating peace with its all-seeing eyes1. Wander the vibrant streets lined with colorful prayer flags, explore the myriad of monasteries, and immerse yourself in the sacred chants that fill the air. Indulge in the local cuisine, savoring dishes like laphing and thukpa, and find tranquility at the Ghyoilisang Peace Park. Whether you're seeking spiritual awakening or cultural exploration, Boudha's unique blend of chaos and calm offers an unforgettable experience that beckons travelers from all corners of the globe"
-      },
-      {
-        "id": "3",
-        "title": "Pokhara",
-        "weather": "cloudy",
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/bojgay4p9jxofskzlx6b",
-        "desc": "Discover the enchanting city of Pokhara, a serene oasis nestled in the heart of Nepal's panoramic Annapurna region. This tranquil paradise offers a harmonious blend of natural wonders and cultural experiences. Glide across the reflective waters of Phewa Lake, where the Annapurna mountains cast their grandeur upon the surface1. Ascend to the World Peace Pagoda, perched atop a hill, offering a vantage point for breathtaking views that promise to leave you spellbound2. Adventure seekers can revel in the thrill of paragliding amidst the Himalayan winds or trek the famous Annapurna Circuit. For those seeking solace, the sacred Barahi Temple and the profound International Mountain Museum beckon with tales of spirituality and mountaineering glory3. Pokhara is not just a destination; it's an experience that will captivate your heart and soul, urging you to return to its beauty time and again."
-      },
-      {
-        "id": "4",
-        "title": "Lumbini",
-        "weather": "sunny",
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/qgens4kwfaq8awf9mvsb",
-        "desc": "Lumbini, the revered birthplace of Lord Buddha, is a beacon of peace and spirituality that resonates with the echoes of enlightenment. Here, the Maya Devi Temple stands as a testament to the sacred origins of Buddhism, inviting pilgrims and tourists alike to witness the very spot where Queen Maya Devi gave birth to Siddhartha Gautama1. The Bodhi Tree, adorned with fluttering prayer flags, offers a serene space for meditation and reflection, while the Mayadevi Pond provides a tranquil setting for contemplation1. The Ashoka Pillar, erected by Emperor Ashoka himself, marks this hallowed ground with ancient inscriptions, further solidifying Lumbini's significance1. With its array of monasteries representing different Buddhist traditions from around the world, Lumbini is not just a destination; it's a journey through the spiritual heart of humanity, promising a profound and transformative experience for all who visit."
-      },
-      {
-        "id": "5",
-        "title": "Dharan",
-        "weather": "sunny",
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/tv04birzzoi11uqqtmck",
-        "desc": "Dharan, a vibrant city at the foothills of the Mahabharata range, is a gateway to the eastern Himalayas and a melting pot of diverse cultures. Explore the sacred Budha Subba Temple, where wishes are believed to come true, or marvel at the Namaste Falls, cascading down to form a natural 'namaste'. The central Pindeshwor Temple invites you to witness the eternal flame and feel the spiritual energy during the auspicious months1. For breathtaking views, ascend the Vijayapur Hill, and let the panorama of the city and beyond captivate your senses. Whether you're seeking adventure, spirituality, or simply a taste of local life, Dharan's rich tapestry of experiences promises an unforgettable journey"
-      },
-      {
-        "id": "6",
-        "title": "not a random title anymore",
-        "weather": "sunny",
-        "img": "Solukhumbu",
-        "desc": "Nestled amidst the majestic Himalayas, Solukhumbu is a treasure trove of natural beauty and cultural richness. Home to the iconic Mount Everest, it beckons adventurers and peace-seekers alike with its serene landscapes and vibrant Sherpa heritage. Imagine embarking on the legendary Everest Base Camp trek, where each step unfolds panoramic vistas and brings you closer to the highest point on Earth."
-      }
-    ],
-    "hotels": [
-      {
-        "id": "1",
-        "name": "Hotel Yak & Yeti",
-        "price": 120,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/tv5jbv6wn68crhqdjm1b",
-        "rating": 5,
-        "freeCancellation": true,
-        "reserveNow": true,
-        "desc": "Hotel Yak & Yeti is a luxurious 5-star hotel located in the heart of Kathmandu, offering world-class amenities and exceptional service. Guests can indulge in the hotel's opulent accommodations, featuring elegantly appointed rooms and suites with modern amenities. The hotel boasts an array of dining options, from fine dining restaurants to casual cafes, catering to diverse culinary preferences. Additionally, it features a state-of-the-art fitness center, a rejuvenating spa, and a stunning outdoor pool, providing guests with ample opportunities for relaxation and rejuvenation."
-      },
-      {
-        "id": "2",
-        "name": "Hotel Annapurna",
-        "price": 100,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/zgpubhnmahhywx21t1j2",
-        "rating": 5,
-        "freeCancellation": true,
-        "reserveNow": true,
-        "desc": "Hotel Annapurna is a renowned 5-star hotel in Kathmandu, offering stunning views of the Himalayas and a range of luxurious amenities. Guests can enjoy the hotel's spacious and elegantly designed rooms, which provide a perfect blend of comfort and style. The hotel features multiple dining options, including a rooftop restaurant with panoramic views of the city and the majestic mountains. Additionally, guests can unwind at the hotel's spa, take a dip in the outdoor pool, or stay active at the well-equipped fitness center."
-      },
-      {
-        "id": "3",
-        "name": "Hotel Radisson",
-        "price": 80,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/ymdp7tcjizdaoiiytyio",
-        "rating": 3,
-        "freeCancellation": true,
-        "reserveNow": true,
-        "desc": "Hotel Radisson is a modern and stylish 5-star hotel located in the heart of Kathmandu, offering exceptional service and a range of amenities. The hotel features contemporary and well-appointed rooms with modern amenities, ensuring a comfortable and luxurious stay for guests. Guests can indulge in a variety of dining options, from international cuisine to local Nepali delicacies, catering to diverse tastes. The hotel also boasts a state-of-the-art fitness center, a relaxing spa, and a rooftop pool with stunning city views, providing guests with ample opportunities for relaxation and rejuvenation."
-      },
-      {
-        "id": "4",
-        "name": "Lumbini Garden Retreat",
-        "price": 150,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/snng9ztpxqockoxj4v7n",
-        "rating": 5,
-        "freeCancellation": true,
-        "reserveNow": true,
-        "desc": "Lumbini Garden Retreat is a peaceful and serene 5-star hotel located in the birthplace of Lord Buddha, offering a tranquil atmosphere and a range of amenities. Guests can immerse themselves in the hotel's serene surroundings, with lush gardens and peaceful courtyards that provide a perfect setting for relaxation and spiritual rejuvenation. The hotel features spacious and elegantly designed rooms, with traditional Nepali touches and modern amenities. Guests can indulge in the hotel's wellness offerings, including yoga and meditation sessions, or explore the nearby UNESCO World Heritage Site of Lumbini, the birthplace of Buddha."
-      },
-      {
-        "id": "5",
-        "name": "Hyatt Regency",
-        "price": 180,
-        "img": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/6608967321245190-d9dabdf82d2611eabcfc0242ac110003.jpg",
-        "rating": 4,
-        "freeCancellation": true,
-        "reserveNow": true,
-        "desc": "Hyatt Regency is a luxurious 4-star hotel located in Kathmandu, offering modern amenities, exceptional service, and a range of dining options. The hotel features stylish and contemporary rooms with modern amenities, ensuring a comfortable and enjoyable stay for guests. Guests can indulge in a variety of dining experiences, from international cuisine to local Nepali delicacies, catering to diverse tastes. The hotel also boasts a state-of-the-art fitness center, a relaxing spa, and an outdoor pool, providing guests with ample opportunities for relaxation and rejuvenation."
-      },
-      {
-        "id": "6",
-        "name": "Marriott Hotel",
-        "price": 200,
-        "img": "https://royalcollege.edu.np/wp-content/uploads/2020/04/HQ5A8705_20190611131701.jpg",
-        "rating": 5,
-        "freeCancellation": false,
-        "reserveNow": true,
-        "desc": "Marriott Hotel is a world-renowned 5-star hotel located in Kathmandu, offering luxurious accommodations, exceptional service, and a range of amenities. Guests can indulge in the hotel's opulent rooms and suites, featuring elegant decor, modern amenities, and stunning views of the city or the Himalayas. The hotel boasts multiple dining options, from fine dining restaurants to casual cafes, catering to diverse culinary preferences. Additionally, guests can unwind at the hotel's spa, stay active at the well-equipped fitness center, or take a dip in the outdoor pool, surrounded by lush gardens."
-      },
-      {
-        "id": "7",
-        "name": "Soaltee Crowne Plaza",
-        "price": 160,
-        "img": "https://lh4.googleusercontent.com/proxy/cguEeVMN81BkYeeUl8EpVCzts4PTtUcx1H2TSsw-5hzcHhYY3-DvdZviVpr3GrzSLAE4cG7qNqE",
-        "rating": 4,
-        "freeCancellation": true,
-        "reserveNow": false,
-        "desc": "Soaltee Crowne Plaza is a 4-star hotel located in Kathmandu, offering comfortable accommodations, a range of amenities, and exceptional service. The hotel features well-appointed rooms with modern amenities, ensuring a comfortable and enjoyable stay for guests. Guests can indulge in a variety of dining options, from international cuisine to local Nepali delicacies, catering to diverse tastes. The hotel also boasts a fitness center, a relaxing spa, and an outdoor pool, providing guests with ample opportunities for relaxation and rejuvenation."
-      }
-    ],
-    "topDestinations": [
-      {
-        "id": "1",
-        "name": "Kathmandu Durbar Square",
-        "price": 500,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/ymy6oklnubpr2pi9n3yy",
-        "desc": "Kathmandu Durbar Square is the historic heart of Kathmandu with ancient temples, palaces and courtyards including the old royal palace."
-      },
-      {
-        "id": "2",
-        "name": "Phewa Lake",
-        "price": 400,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/zijneie6x8jyzgebubox",
-        "desc": "Phewa Lake is a large scenic lake in Pokhara with views of the Annapurna Range and activities like boating and paragliding."
-      },
-      {
-        "id": "3",
-        "name": "Chitwan National Park",
-        "price": 350,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/c1gotsoxxacoqgl4xjoo",
-        "desc": "Chitwan National Park protects rare wildlife like one-horned rhinos, Royal Bengal tigers and Gharial crocodiles."
-      },
-      {
-        "id": "4",
-        "name": "Lumbini Sacred Garden",
-        "price": 300,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/hlsu74onuhdcs53rldd7",
-        "desc": "Lumbini Sacred Garden contains ancient Buddhist monasteries, stupas and the exact birthplace of Buddha."
-      }
-    ],
-    "travelPackages": [
-      {
-        "id": "1",
-        "name": "Boudha",
-        "price": 1000,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/bjyr3hehjb04e4m67nnb",
-        "desc": "Boudha, the heart of Kathmandu's spiritual life, is an enchanting destination that promises a journey through serenity and tradition"
-      },
-      {
-        "id": "2",
-        "name": "Pokhara",
-        "price": 800,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/bojgay4p9jxofskzlx6b",
-        "desc": "Pokhara, known as the city of lakes and the gateway to the Himalayas, is one of Nepal's most scenic and popular destinations"
-      },
-      {
-        "id": "3",
-        "name": "Chitwan",
-        "price": 1200,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/oj9db5gown3zqrszaqdx",
-        "desc": "Chitwan National Park, Nepal's first national park, is home to rare flora and fauna including the one-horned rhino and Royal Bengal tiger"
-      },
-      {
-        "id": "4",
-        "name": "Lumbini",
-        "price": 500,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/qgens4kwfaq8awf9mvsb",
-        "desc": "Lumbini, the birthplace of Lord Buddha, is one of the world's most important spiritual pilgrimage sites and a UNESCO World Heritage Site"
-      }
-    ],
-    "thingsToDo": [
-      {
-        "id": "1",
-        "name": "Swimming",
-        "price": 100,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/dmqdof6ilmzbs8f137pv"
-      },
-      {
-        "id": "2",
-        "name": "Gym",
-        "price": 50,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/zqm3sgocbxa6cu0epojs"
-      },
-      {
-        "id": "3",
-        "name": "Spa",
-        "price": 150,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/xc37g4dohz25zk3v94ii"
-      },
-      {
-        "id": "4",
-        "name": "Tennis Court",
-        "price": 80,
-        "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/rfll5mj7au6pg2pjfxem"
-      }
-    ],
-    "reviews": [
-      {
-        "id": "1",
-        "hotelId": "1",
-        "rating": 5,
-        "comment": "Great place to stay",
-        "user": "User name",
-        "date": "2020-01-01",
-        "userImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa"
-      },
-      {
-        "id": "2",
-        "hotelId": "3",
-        "rating": 5,
-        "comment": "Great place to stay",
-        "user": "User name",
-        "date": "2020-01-01",
-        "userImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa"
-      },
-      {
-        "id": "3",
-        "hotelId": "2",
-        "rating": 5,
-        "comment": "Great place to stay",
-        "user": "User name",
-        "date": "2020-01-01",
-        "userImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa"
-      },
-      {
-        "id": "4",
-        "hotelId": "1",
-        "rating": 5,
-        "comment": "Great place to stay",
-        "user": "User name",
-        "date": "2020-01-01",
-        "userImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa"
-      },
-      {
-        "id": "5",
-        "hotelId": "1",
-        "rating": 5,
-        "comment": "Great place to stay",
-        "user": "User name",
-        "date": "2020-01-01",
-        "userImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa"
-      },
-      {
-        "id": "6",
-        "hotelId": "1",
-        "rating": 5,
-        "comment": "Great place to stay",
-        "user": "User name",
-        "date": "2020-01-01",
-        "userImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa"
-      }
-    ],
-    "users": [
-      {
-        "id": "1",
-        "name": "User name",
-        "email": "user@gmail.com",
-        "password": "passuuserUwU",
-        "image": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa",
-        "coverImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/whwvm1jz6ghze3gdfbsu"
-      }
-    ]
-  }
+  "destination": [
+    {
+      "id": "1",
+      "title": "Solukhumbu",
+      "weather": "rainy",
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/ygmdtppexv58ngfcakt6",
+      "desc": "Nestled amidst the majestic Himalayas, Solukhumbu is a treasure trove of natural beauty and cultural richness. Home to the iconic Mount Everest, it beckons adventurers and peace-seekers alike with its serene landscapes and vibrant Sherpa heritage. Imagine embarking on the legendary Everest Base Camp trek, where each step unfolds panoramic vistas and brings you closer to the highest point on Earth. Enrich your spirit at the ancient Tengboche Monastery, a sanctuary of tranquility and faith, set against the backdrop of awe-inspiring peaks. The pristine Gokyo Lakes, with their crystal-clear waters reflecting the sky, offer a moment of reflection and wonder. Whether it's the thrill of landing at the daring Lukla Airport or the allure of witnessing the Khumbu Glacier's grandeur, Solukhumbu is an experience that transcends the ordinary, promising memories that will elevate your soul"
+    },
+    {
+      "id": "2",
+      "title": "Boudha",
+      "weather": "sunny",
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/bjyr3hehjb04e4m67nnb",
+      "desc": "Boudha, the heart of Kathmandu's spiritual life, is an enchanting destination that promises a journey through serenity and tradition. At its core stands the magnificent Boudhanath Stupa, a UNESCO World Heritage site and one of the largest stupas in the world, radiating peace with its all-seeing eyes1. Wander the vibrant streets lined with colorful prayer flags, explore the myriad of monasteries, and immerse yourself in the sacred chants that fill the air. Indulge in the local cuisine, savoring dishes like laphing and thukpa, and find tranquility at the Ghyoilisang Peace Park. Whether you're seeking spiritual awakening or cultural exploration, Boudha's unique blend of chaos and calm offers an unforgettable experience that beckons travelers from all corners of the globe"
+    },
+    {
+      "id": "3",
+      "title": "Pokhara",
+      "weather": "cloudy",
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/bojgay4p9jxofskzlx6b",
+      "desc": "Discover the enchanting city of Pokhara, a serene oasis nestled in the heart of Nepal's panoramic Annapurna region. This tranquil paradise offers a harmonious blend of natural wonders and cultural experiences. Glide across the reflective waters of Phewa Lake, where the Annapurna mountains cast their grandeur upon the surface1. Ascend to the World Peace Pagoda, perched atop a hill, offering a vantage point for breathtaking views that promise to leave you spellbound2. Adventure seekers can revel in the thrill of paragliding amidst the Himalayan winds or trek the famous Annapurna Circuit. For those seeking solace, the sacred Barahi Temple and the profound International Mountain Museum beckon with tales of spirituality and mountaineering glory3. Pokhara is not just a destination; it's an experience that will captivate your heart and soul, urging you to return to its beauty time and again."
+    },
+    {
+      "id": "4",
+      "title": "Lumbini",
+      "weather": "sunny",
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/qgens4kwfaq8awf9mvsb",
+      "desc": "Lumbini, the revered birthplace of Lord Buddha, is a beacon of peace and spirituality that resonates with the echoes of enlightenment. Here, the Maya Devi Temple stands as a testament to the sacred origins of Buddhism, inviting pilgrims and tourists alike to witness the very spot where Queen Maya Devi gave birth to Siddhartha Gautama1. The Bodhi Tree, adorned with fluttering prayer flags, offers a serene space for meditation and reflection, while the Mayadevi Pond provides a tranquil setting for contemplation1. The Ashoka Pillar, erected by Emperor Ashoka himself, marks this hallowed ground with ancient inscriptions, further solidifying Lumbini's significance1. With its array of monasteries representing different Buddhist traditions from around the world, Lumbini is not just a destination; it's a journey through the spiritual heart of humanity, promising a profound and transformative experience for all who visit."
+    },
+    {
+      "id": "5",
+      "title": "Dharan",
+      "weather": "sunny",
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/tv04birzzoi11uqqtmck",
+      "desc": "Dharan, a vibrant city at the foothills of the Mahabharata range, is a gateway to the eastern Himalayas and a melting pot of diverse cultures. Explore the sacred Budha Subba Temple, where wishes are believed to come true, or marvel at the Namaste Falls, cascading down to form a natural 'namaste'. The central Pindeshwor Temple invites you to witness the eternal flame and feel the spiritual energy during the auspicious months1. For breathtaking views, ascend the Vijayapur Hill, and let the panorama of the city and beyond captivate your senses. Whether you're seeking adventure, spirituality, or simply a taste of local life, Dharan's rich tapestry of experiences promises an unforgettable journey"
+    },
+    {
+      "id": "6",
+      "title": "not a random title anymore",
+      "weather": "sunny",
+      "img": "Solukhumbu",
+      "desc": "Nestled amidst the majestic Himalayas, Solukhumbu is a treasure trove of natural beauty and cultural richness. Home to the iconic Mount Everest, it beckons adventurers and peace-seekers alike with its serene landscapes and vibrant Sherpa heritage. Imagine embarking on the legendary Everest Base Camp trek, where each step unfolds panoramic vistas and brings you closer to the highest point on Earth."
+    }
+  ],
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Hotel Yak & Yeti",
+      "price": 120,
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/tv5jbv6wn68crhqdjm1b",
+      "rating": 5,
+      "freeCancellation": true,
+      "reserveNow": true,
+      "desc": "Hotel Yak & Yeti is a luxurious 5-star hotel located in the heart of Kathmandu, offering world-class amenities and exceptional service. Guests can indulge in the hotel's opulent accommodations, featuring elegantly appointed rooms and suites with modern amenities. The hotel boasts an array of dining options, from fine dining restaurants to casual cafes, catering to diverse culinary preferences. Additionally, it features a state-of-the-art fitness center, a rejuvenating spa, and a stunning outdoor pool, providing guests with ample opportunities for relaxation and rejuvenation."
+    },
+    {
+      "id": "2",
+      "name": "Hotel Annapurna",
+      "price": 100,
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/zgpubhnmahhywx21t1j2",
+      "rating": 5,
+      "freeCancellation": true,
+      "reserveNow": true,
+      "desc": "Hotel Annapurna is a renowned 5-star hotel in Kathmandu, offering stunning views of the Himalayas and a range of luxurious amenities. Guests can enjoy the hotel's spacious and elegantly designed rooms, which provide a perfect blend of comfort and style. The hotel features multiple dining options, including a rooftop restaurant with panoramic views of the city and the majestic mountains. Additionally, guests can unwind at the hotel's spa, take a dip in the outdoor pool, or stay active at the well-equipped fitness center."
+    },
+    {
+      "id": "3",
+      "name": "Hotel Radisson",
+      "price": 80,
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/ymdp7tcjizdaoiiytyio",
+      "rating": 3,
+      "freeCancellation": true,
+      "reserveNow": true,
+      "desc": "Hotel Radisson is a modern and stylish 5-star hotel located in the heart of Kathmandu, offering exceptional service and a range of amenities. The hotel features contemporary and well-appointed rooms with modern amenities, ensuring a comfortable and luxurious stay for guests. Guests can indulge in a variety of dining options, from international cuisine to local Nepali delicacies, catering to diverse tastes. The hotel also boasts a state-of-the-art fitness center, a relaxing spa, and a rooftop pool with stunning city views, providing guests with ample opportunities for relaxation and rejuvenation."
+    },
+    {
+      "id": "4",
+      "name": "Lumbini Garden Retreat",
+      "price": 150,
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/snng9ztpxqockoxj4v7n",
+      "rating": 5,
+      "freeCancellation": true,
+      "reserveNow": true,
+      "desc": "Lumbini Garden Retreat is a peaceful and serene 5-star hotel located in the birthplace of Lord Buddha, offering a tranquil atmosphere and a range of amenities. Guests can immerse themselves in the hotel's serene surroundings, with lush gardens and peaceful courtyards that provide a perfect setting for relaxation and spiritual rejuvenation. The hotel features spacious and elegantly designed rooms, with traditional Nepali touches and modern amenities. Guests can indulge in the hotel's wellness offerings, including yoga and meditation sessions, or explore the nearby UNESCO World Heritage Site of Lumbini, the birthplace of Buddha."
+    },
+    {
+      "id": "5",
+      "name": "Hyatt Regency",
+      "price": 180,
+      "img": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/6608967321245190-d9dabdf82d2611eabcfc0242ac110003.jpg",
+      "rating": 4,
+      "freeCancellation": true,
+      "reserveNow": true,
+      "desc": "Hyatt Regency is a luxurious 4-star hotel located in Kathmandu, offering modern amenities, exceptional service, and a range of dining options. The hotel features stylish and contemporary rooms with modern amenities, ensuring a comfortable and enjoyable stay for guests. Guests can indulge in a variety of dining experiences, from international cuisine to local Nepali delicacies, catering to diverse tastes. The hotel also boasts a state-of-the-art fitness center, a relaxing spa, and an outdoor pool, providing guests with ample opportunities for relaxation and rejuvenation."
+    },
+    {
+      "id": "6",
+      "name": "Marriott Hotel",
+      "price": 200,
+      "img": "https://royalcollege.edu.np/wp-content/uploads/2020/04/HQ5A8705_20190611131701.jpg",
+      "rating": 5,
+      "freeCancellation": false,
+      "reserveNow": true,
+      "desc": "Marriott Hotel is a world-renowned 5-star hotel located in Kathmandu, offering luxurious accommodations, exceptional service, and a range of amenities. Guests can indulge in the hotel's opulent rooms and suites, featuring elegant decor, modern amenities, and stunning views of the city or the Himalayas. The hotel boasts multiple dining options, from fine dining restaurants to casual cafes, catering to diverse culinary preferences. Additionally, guests can unwind at the hotel's spa, stay active at the well-equipped fitness center, or take a dip in the outdoor pool, surrounded by lush gardens."
+    },
+    {
+      "id": "7",
+      "name": "Soaltee Crowne Plaza",
+      "price": 160,
+      "img": "https://lh4.googleusercontent.com/proxy/cguEeVMN81BkYeeUl8EpVCzts4PTtUcx1H2TSsw-5hzcHhYY3-DvdZviVpr3GrzSLAE4cG7qNqE",
+      "rating": 4,
+      "freeCancellation": true,
+      "reserveNow": false,
+      "desc": "Soaltee Crowne Plaza is a 4-star hotel located in Kathmandu, offering comfortable accommodations, a range of amenities, and exceptional service. The hotel features well-appointed rooms with modern amenities, ensuring a comfortable and enjoyable stay for guests. Guests can indulge in a variety of dining options, from international cuisine to local Nepali delicacies, catering to diverse tastes. The hotel also boasts a fitness center, a relaxing spa, and an outdoor pool, providing guests with ample opportunities for relaxation and rejuvenation."
+    }
+  ],
+  "topDestinations": [
+    {
+      "id": "1",
+      "name": "Kathmandu Durbar Square",
+      "price": 500,
+      "img": "https://i.pinimg.com/564x/51/b1/3b/51b13b5dd1f77fc278c8f361c761513c.jpg",
+      "desc": "Kathmandu Durbar Square is the historic heart of Kathmandu with ancient temples, palaces and courtyards including the old royal palace."
+    },
+    {
+      "id": "2",
+      "name": "Phewa Lake",
+      "price": 400,
+      "img": "https://i.pinimg.com/736x/48/a4/c3/48a4c3a26cb72cfcbdd5542a0d58fb17.jpg",
+      "desc": "Phewa Lake is a large scenic lake in Pokhara with views of the Annapurna Range and activities like boating and paragliding."
+    },
+    {
+      "id": "3",
+      "name": "Chitwan National Park",
+      "price": 350,
+      "img": "https://i.pinimg.com/564x/b1/96/c6/b196c6b0d74b431fc6f0423977497baa.jpg",
+      "desc": "Chitwan National Park protects rare wildlife like one-horned rhinos, Royal Bengal tigers and Gharial crocodiles."
+    },
+    {
+      "id": "4",
+      "name": "Rara Lake",
+      "price": 600,
+      "img": "https://i.pinimg.com/564x/54/65/0f/54650fb0b924e5e40c6ad2485851b52f.jpg",
+      "desc": "Rara Lake, Nepal's largest lake, is renowned for its stunning blue waters and serene setting surrounded by the Himalayas and lush forests."
+    },
+    {
+      "id": "5",
+      "name": "Annapurna Base Camp",
+      "price": 300,
+      "img": "https://i.pinimg.com/736x/3b/03/dd/3b03dd87e1e50684c8c35e7697afdc4a.jpg",
+      "desc": "Annapurna Base Camp (ABC) is a popular trekking destination in Nepal, offering stunning views of the Annapurna massif, including Annapurna I and Machapuchare (Fishtail). The trek, which takes about 7 to 12 days, traverses diverse landscapes from lush forests to alpine meadows and provides an immersive experience of local culture and nature."
+    },
+    {
+      "id": "6",
+      "name": "Lumbini",
+      "price": 300,
+      "img": "https://i.pinimg.com/564x/e8/75/6e/e8756e1693c9e2e55738c2fcf464e9b7.jpg",
+      "desc": "Lumbini, a UNESCO World Heritage Site, is the birthplace of Siddhartha Gautama, later known as Lord Buddha. Key attractions include the Maya Devi Temple, the Ashoka Pillar, various international monasteries, and the peaceful Sacred Garden."
+    }
+  ],
+  "travelPackages": [
+    {
+      "id": "1",
+      "name": "Boudha",
+      "price": 1000,
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/bjyr3hehjb04e4m67nnb",
+      "desc": "Boudha, the heart of Kathmandu's spiritual life, is an enchanting destination that promises a journey through serenity and tradition"
+    },
+    {
+      "id": "2",
+      "name": "Pokhara",
+      "price": 800,
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/bojgay4p9jxofskzlx6b",
+      "desc": "Pokhara, known as the city of lakes and the gateway to the Himalayas, is one of Nepal's most scenic and popular destinations"
+    },
+    {
+      "id": "3",
+      "name": "Chitwan",
+      "price": 1200,
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/oj9db5gown3zqrszaqdx",
+      "desc": "Chitwan National Park, Nepal's first national park, is home to rare flora and fauna including the one-horned rhino and Royal Bengal tiger"
+    },
+    {
+      "id": "4",
+      "name": "Lumbini",
+      "price": 500,
+      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/qgens4kwfaq8awf9mvsb",
+      "desc": "Lumbini, the birthplace of Lord Buddha, is one of the world's most important spiritual pilgrimage sites and a UNESCO World Heritage Site"
+    }
+  ],
+  "thingsToDo": [
+    {
+      "id": "1",
+      "name": "Treaking and Hiking ",
+      "price": 100,
+      "img": "https://i.pinimg.com/564x/33/45/84/3345843e75b5383f30c408db70497c15.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Rafting",
+      "price": 50,
+      "img": "https://i.pinimg.com/564x/63/c7/7e/63c77e3b5effb15e90ef82021ffa20ea.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Paragliding",
+      "price": 150,
+      "img": "https://i.pinimg.com/564x/dc/1e/bf/dc1ebfddb719b80f90fa6d4a8fea03c4.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Local Festivals and Events",
+      "price": 80,
+      "img": "https://i.pinimg.com/564x/af/07/00/af07000df2711a6032369d41c92ea6f5.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Wildlife Safaris",
+      "price": 200,
+      "img": "https://i.pinimg.com/564x/9f/0f/2c/9f0f2c2750ca313c9ccd4ffeb96a42f3.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Bungee Jumping",
+      "price": 100,
+      "img": "https://i.pinimg.com/564x/c4/ce/26/c4ce265849594e05d3bc5c98715e835b.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "hotelId": "1",
+      "rating": 5,
+      "comment": "Great place to stay",
+      "user": "User name",
+      "date": "2020-01-01",
+      "userImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa"
+    },
+    {
+      "id": "2",
+      "hotelId": "3",
+      "rating": 5,
+      "comment": "Great place to stay",
+      "user": "User name",
+      "date": "2020-01-01",
+      "userImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa"
+    },
+    {
+      "id": "3",
+      "hotelId": "2",
+      "rating": 5,
+      "comment": "Great place to stay",
+      "user": "User name",
+      "date": "2020-01-01",
+      "userImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa"
+    },
+    {
+      "id": "4",
+      "hotelId": "1",
+      "rating": 5,
+      "comment": "Great place to stay",
+      "user": "User name",
+      "date": "2020-01-01",
+      "userImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa"
+    },
+    {
+      "id": "5",
+      "hotelId": "1",
+      "rating": 5,
+      "comment": "Great place to stay",
+      "user": "User name",
+      "date": "2020-01-01",
+      "userImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa"
+    },
+    {
+      "id": "6",
+      "hotelId": "1",
+      "rating": 5,
+      "comment": "Great place to stay",
+      "user": "User name",
+      "date": "2020-01-01",
+      "userImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "User name",
+      "email": "user@gmail.com",
+      "password": "passuuserUwU",
+      "image": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/juzdfyafpfijrb8nhkfa",
+      "coverImage": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/whwvm1jz6ghze3gdfbsu"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah Thompson",
+      "country": " USA",
+      "flag": "fi fi-us",
+      "text": "Trekking to Everest Base Camp was a life-changing experience. The breathtaking views and warm hospitality of the Nepali people made this trip unforgettable.",
+      "image": "https://media.istockphoto.com/id/1682296067/photo/happy-studio-portrait-or-professional-man-real-estate-agent-or-asian-businessman-smile-for.webp?b=1&s=170667a&w=0&k=20&c=V-RXoAk73ljzQZd0w_JcCFG-jlYs6sjpcrIZQ1TersQ=",
+      "rating": 5
+    },
+    {
+      "name": "Rahul Patel",
+      "country": " India",
+      "flag": "fi fi-in",
+      "text": "Pokhara stole my heart! The serene lakes, adventure sports, and the backdrop of the Annapurna range make it a perfect destination for both relaxation and excitement.",
+      "rating": 4.5,
+      "image": "https://www.myhealthspecialist.com/assets/images/uploads/rahul-patel_rec.png"
+    },
+    {
+      "name": "Emma Larsson",
+      "country": " Sweden",
+      "flag": "fi fi-se",
+      "text": "The cultural richness of Kathmandu Valley amazed me. From ancient temples to vibrant markets, every corner tells a story. Nepal truly is a hidden gem!",
+      "rating": 5,
+      "image": "https://media.licdn.com/dms/image/C5603AQEDPxq9Zi2v5g/profile-displayphoto-shrink_200_200/0/1602171563736?e=2147483647&v=beta&t=nVGEvK3zyMPJEv86WbtNkzj1mJGoELYWV_-4g8kd66A"
+    },
+    {
+      "name": "Hiroshi Tanaka",
+      "country": " Japan",
+      "flag": "fi fi-jp",
+      "text": "Chitwan National Park offered an incredible wildlife experience. Seeing rhinos and tigers in their natural habitat was thrilling. Nepal's biodiversity is astounding.",
+      "image": "https://i1.rgstatic.net/ii/profile.image/993256653475842-1613822248561_Q512/Hiroshi-Tanaka-14.jpg",
+
+      "rating": 4.8
+    }
+  ]
+}
