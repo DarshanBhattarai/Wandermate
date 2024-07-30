@@ -1,6 +1,10 @@
 import React from "react";
 import Nav from "./Nav";
 import { useState, useEffect } from "react";
+import {Link} from "react-router-dom"
+import Footer from "./Footer";
+
+
 
 const HomePage = () => {
   const [destinations, setData] = useState([]);
@@ -131,6 +135,11 @@ const HomePage = () => {
         </h1>
         <div className="flex flex-wrap justify-center px-12">
           {destinations.map((destination) => (
+             <Link
+             key={destination.name}
+             to={`/Destinations/${destination.name}`}
+             className="relative group text-left"
+           >
             <div
               key={destination.id}
               className="relative group w-auto h-64 m-4 overflow-hidden rounded-md"
@@ -154,6 +163,7 @@ const HomePage = () => {
                 </div>
               </div>
             </div>
+           </Link>
           ))}
         </div>
       </div>
@@ -224,7 +234,9 @@ const HomePage = () => {
                   className="w-24 h-24 rounded-full object-cover mr-16"
                 />
                 <div className="flex flex-col items-start">
-                  <p className="text-sm font-semibold pb-2">{testimonial.name}</p>
+                  <p className="text-sm font-semibold pb-2">
+                    {testimonial.name}
+                  </p>
                   <p className="flex items-center text-sm">
                     <span className={`fi ${testimonial.flag} text-2xl mr-2`} />{" "}
                     {testimonial.country}
@@ -237,7 +249,11 @@ const HomePage = () => {
             </div>
           ))}
         </div>
-      </div> 
+      </div>
+       
+       <footer>
+        <Footer/>
+       </footer>
     </>
   );
 };

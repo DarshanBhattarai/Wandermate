@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import Nav from "./Nav";
 
 const HotelList = () => {
   const [hotels, setHotels] = useState([]);
@@ -30,7 +31,13 @@ const HotelList = () => {
 
   return (
     <>
-      <div>
+      <div className=" bg-black flex justify-center">
+        <Nav />
+        <div className=" ">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSTrAju0NvEwOcWOyfxZSoWv73kdgheSd_Q&s" alt=""  className="w-full h-auto"/>
+        </div>
+      </div>
+      {/* <div>
       <h1 className="text-lg font-playwrite font-semibold">Hotels</h1>
 
         <ul>
@@ -49,7 +56,7 @@ const HotelList = () => {
             </li>
           ))}
         </ul>
-      </div>
+      </div> */}
       
     </>
   );

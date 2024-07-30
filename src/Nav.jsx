@@ -40,7 +40,7 @@ const Nav = () => {
             </Link>
           </li>
           <li>
-            <Link to="/Component2" className="hover:text-yellow-200">
+            <Link to="/Destinations" className="hover:text-yellow-200">
               Destination
             </Link>
           </li>

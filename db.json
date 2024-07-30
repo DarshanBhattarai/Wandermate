@@ -1,46 +1,375 @@
 {
   "destination": [
     {
-      "id": "1",
-      "title": "Solukhumbu",
-      "weather": "rainy",
-      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/ygmdtppexv58ngfcakt6",
-      "desc": "Nestled amidst the majestic Himalayas, Solukhumbu is a treasure trove of natural beauty and cultural richness. Home to the iconic Mount Everest, it beckons adventurers and peace-seekers alike with its serene landscapes and vibrant Sherpa heritage. Imagine embarking on the legendary Everest Base Camp trek, where each step unfolds panoramic vistas and brings you closer to the highest point on Earth. Enrich your spirit at the ancient Tengboche Monastery, a sanctuary of tranquility and faith, set against the backdrop of awe-inspiring peaks. The pristine Gokyo Lakes, with their crystal-clear waters reflecting the sky, offer a moment of reflection and wonder. Whether it's the thrill of landing at the daring Lukla Airport or the allure of witnessing the Khumbu Glacier's grandeur, Solukhumbu is an experience that transcends the ordinary, promising memories that will elevate your soul"
+      "id": 1,
+      "name": "Kathmandu Valley",
+      "description": "The vibrant capital city known for its historic temples, bustling markets, and rich cultural heritage.",
+      "image": "https://images.pexels.com/photos/14367175/pexels-photo-14367175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "bgimg": "https://i.pinimg.com/564x/67/85/36/6785362aadaed497398304de00fd36b9.jpg",
+      "map": "https://trailrunningnepal.org/wp-content/uploads/2018/12/jimi-ktm-valley-rim-run.jpg",
+      "desc": "Kathmandu Valley, located in central Nepal, is a vibrant region steeped in history and culture. Encompassing the capital city of Kathmandu along with the historic cities of Bhaktapur and Patan, the valley is renowned for its ancient temples, stupas, and palaces, including iconic landmarks such as Swayambhunath temple and Boudhanath temple. This cultural hub is a melting pot of Hindu and Buddhist traditions, celebrated through festivals and rich local customs. Surrounded by the picturesque Himalayan foothills, Kathmandu Valley offers both serene natural beauty and a bustling modern atmosphere, making it a captivating destination for travelers seeking a blend of historical grandeur and contemporary vibrancy.",
+      "places": [
+        {
+          "name": "Swayambhunath temple",
+          "about": "The Swayambhunath temple, also known as the Monkey Temple, is one of the most famous and ancient stupas in Nepal. Located atop a hill in Kathmandu Valley, it offers a panoramic view of the city and the surrounding valley.",
+
+          "description": "Swayambhunath temple, commonly known as the Monkey Temple, is one of the most significant and iconic religious sites in Kathmandu, Nepal. Here are some key points about the stupa:\n\nOverview\n\nLocation: Perched atop a hill in the Kathmandu Valley, Swayambhunath temple offers a panoramic view of the city.\n\nReligious Significance: This ancient religious complex is sacred to both Buddhists and Hindus. It is a UNESCO World Heritage Site, reflecting its cultural and spiritual importance.\n\nHistory\n\nOrigins: The stupa is believed to have been established around the 5th century CE. Its history is rooted in legend, with the stupa said to have self-originated from a lotus flower.\n\nDevelopment: Over centuries, various kings and rulers have added to the complex, making it a blend of ancient and newer structures.\n\nArchitecture\n\nMain temple: The central structure consists of a white dome topped with a gilded spire. The spire is adorned with 13 rings, representing the stages of enlightenment in Buddhism.\n\nEyes of Buddha: The spire is famously painted with the all-seeing eyes of Buddha, symbolizing wisdom and compassion.\n\nPrayer Wheels: Surrounding the stupa are numerous prayer wheels inscribed with sacred mantras, which devotees spin as they circumambulate the stupa.\n\nMonuments and Shrines: The complex includes numerous shrines, temples, and statues of various deities and historical figures.\n\nCultural Elements\n\nMonkeys: The site is home to many monkeys, who are considered holy and add to the lively atmosphere of the temple.\n\nPilgrimages and Festivals: Swayambhunath is a major pilgrimage site and hosts several festivals, particularly during Buddha Jayanti (Buddha's birthday).\n\nVisitor Experience\n\nAccess: Visitors can reach the stupa by climbing a long, steep staircase or by a more gradual path on the opposite side of the hill.\n\nViewpoint: The hilltop location provides stunning views of Kathmandu Valley and the surrounding mountains.",
+          "img": "https://squarehotelktm.com/wp-content/uploads/2018/04/Swayambhunath_temple_-_an_ancient_religious_architecture_of_Nepal.jpg"
+        },
+        {
+          "name": "Kathmandu Durbar Square",
+          "about": "Kathmandu Durbar Square is a historic and cultural landmark situated in the heart of Kathmandu, Nepal. As a UNESCO World Heritage Site, it represents a significant part of the city’s rich history and architectural heritage. Once the royal palace complex of the Malla kings who ruled the Kathmandu Valley from the 12th to 18th centuries, the square is a hub of cultural, political, and social activities.",
+          "description": "Kathmandu Durbar Square is a historic and vibrant cultural landmark situated in the heart of Kathmandu, Nepal. As a UNESCO World Heritage Site, it was once the royal palace complex of the Malla kings, who ruled the Kathmandu Valley from the 12th to 18th centuries. The square is renowned for its exquisite Newari architecture, featuring intricately carved wooden windows, temples, and courtyards. Key attractions include Hanuman Dhoka Palace, now a museum with artifacts from the Malla period; Kumari Ghar, the residence of the living goddess Kumari; Kasthamandap Temple, a historic wooden structure dedicated to Shiva; Basantapur Tower, offering panoramic views of the city; and Taleju Temple, an important Hindu temple known for its detailed carvings. The square is a bustling center of activity, hosting various cultural festivals like Indra Jatra, and is a lively area with street vendors, artists, and traditional performances. Its rich history and vibrant present make it a must-visit destination in Kathmandu.",
+
+          "img": "https://www.nepaltraveladventure.com/blog/wp-content/uploads/2020/02/Untitled-1-copy.jpg"
+        },
+        {
+          "name": "Pashupatinath Temple",
+          "about": "This temple situated on the banks of the holy River Bagmati is the most revered Hindu temple in Nepal. The main temple complex is open only to the Hindus; non-Hindus must satisfy themselves by observing from the terraces just across the Bagmati River to the east. As a mark of reverence and tradition, leather items that include shoes, belts and cameras are forbidden within the temple complex and must be left outside. Photography is strictly prohibited. ",
+          "description": "Pashupatinath Temple is one of the holiest Hindu temples dedicated to Lord Shiva, located in Kathmandu, Nepal. It is a UNESCO World Heritage Site and an important pilgrimage destination for Hindus from around the world. The temple is situated on the banks of the Bagmati River and is renowned for its stunning pagoda-style architecture, adorned with intricate wood carvings and gold-plated roofs. The main temple features a large lingam (symbol of Shiva) and is surrounded by numerous smaller shrines and statues. Pashupatinath is particularly famous for its ritual cremations that take place along the riverbank, reflecting its significance in Hindu funerary practices. The temple complex also hosts various festivals, including Maha Shivaratri, attracting thousands of devotees who come to offer prayers and participate in the celebrations. Its sacred ambiance and historical significance make Pashupatinath Temple a key cultural and religious landmark in Kathmandu.",
+          "img": "https://img.veenaworld.com/wp-content/uploads/2021/09/Pashupatinath-Temple-Nepal-Timings-History-and-Location.jpg"
+        },
+        {
+          "name": "Patan Darbar Square",
+          "about": "Patan Durbar Square, located in the heart of the ancient city of Patan (also known as Lalitpur), is a magnificent showcase of traditional Newar architecture and artistry. This UNESCO World Heritage site is renowned for its collection of temples, palaces, and courtyards that date back to the Malla period.",
+          "description": "Patan Durbar Square, located in the heart of Patan (Lalitpur), is a UNESCO World Heritage site renowned for its stunning display of Newar architecture and artistry. This historic square features the magnificent Krishna Mandir, a stone temple with intricate carvings; the Patan Museum, housed in a former royal palace with a rich collection of traditional Nepalese art; and the revered Hiranya Varna Mahavihar (Golden Temple), known for its golden facade and exquisite metalwork. The square is an open-air museum, showcasing centuries-old statues, monuments, and the exceptional craftsmanship of Patan's artisans, offering visitors a serene atmosphere to explore the cultural and spiritual heritage of the Newar community.",
+          "img": "https://www.nepaltraveladventure.com/blog/wp-content/uploads/2020/03/patan-durbar-square.jpg"
+        },
+        {
+          "name": "Bhaktapur Durbar Square",
+          "about": "Bhaktapur Durbar Square is a UNESCO World Heritage Site and was once home to the royal family of Bhaktapur. Locally known as Khwopa or the ancient Newa City, visitors can explore the entire complex of four squares—Taumadhi Square, Durbar Square, Pottery Square, and Dattatreya Square. Located about 13 kilometers east of the Kathmandu Valley, it is often visited from Kathmandu.",
+          "description": "Bhaktapur Durbar Square, a UNESCO World Heritage Site, is a stunning example of Newari architecture and culture located in the heart of Bhaktapur, Nepal. This square is a living museum of traditional art, ancient history, and rich culture, featuring intricately carved wooden structures, stone sculptures, and pagoda-style temples. Key attractions include the 55-Window Palace, Vatsala Temple, Nyatapola Temple, and the Golden Gate, each showcasing exquisite craftsmanship and historical significance. The square is a vibrant hub of cultural activities, local festivals, and traditional rituals, offering visitors an immersive experience into Nepal's glorious past. Bhaktapur Durbar Square is not just a historical site but a testament to the enduring legacy of Nepalese artistry and heritage.",
+          "img": "https://live.staticflickr.com/7145/6446937807_98e08ca627_z.jpg"
+        },
+        {
+          "name": "Bauddhanath Stupa",
+          "about": "Boudhanath Stupa, also known as Boudhanath or Boudha, is one of the largest and most significant Buddhist monuments in Nepal. It stands tall with its impressive white dome and gilded spire, symbolizing enlightenment and the path to Nirvana. The stupa is a UNESCO World Heritage Site and is considered one of the holiest Buddhist sites outside of Tibet, attracting thousands of pilgrims and tourists from around the world.",
+          "description": "Boudhanath Stupa, also known as Boudhanath or Boudha, is a significant Buddhist monument located in Kathmandu, Nepal. It is one of the largest stupas in the world and a UNESCO World Heritage Site, attracting thousands of pilgrims and tourists annually. Built in the 14th century, it enshrines the remains of Kassapa Buddha and became a key center of Tibetan Buddhism following the Chinese invasion of Tibet in the 1950s. Architecturally, the stupa features a large white dome representing the earth, a square tower symbolizing enlightenment, and the iconic Eyes of Buddha painted on each side, all topped by a thirteen-tiered golden spire. The area is vibrant with Tibetan culture, filled with monasteries, shops, and restaurants. Prayer flags flutter around the stupa, adding to the spiritual atmosphere. Visitors are encouraged to walk clockwise around the stupa, explore nearby monasteries, and engage with the local community to fully appreciate this spiritual and cultural hub.",
+          "img": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/bauddhanath-stupa-kathmandu-arjun-rai.jpg"
+        }
+      ]
     },
     {
-      "id": "2",
-      "title": "Boudha",
-      "weather": "sunny",
-      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/bjyr3hehjb04e4m67nnb",
-      "desc": "Boudha, the heart of Kathmandu's spiritual life, is an enchanting destination that promises a journey through serenity and tradition. At its core stands the magnificent Boudhanath Stupa, a UNESCO World Heritage site and one of the largest stupas in the world, radiating peace with its all-seeing eyes1. Wander the vibrant streets lined with colorful prayer flags, explore the myriad of monasteries, and immerse yourself in the sacred chants that fill the air. Indulge in the local cuisine, savoring dishes like laphing and thukpa, and find tranquility at the Ghyoilisang Peace Park. Whether you're seeking spiritual awakening or cultural exploration, Boudha's unique blend of chaos and calm offers an unforgettable experience that beckons travelers from all corners of the globe"
+      "id": 2,
+      "name": "Pokhara Valley",
+      "description": "Pokhara Valley is a picturesque city in Nepal known for its stunning natural beauty, including lakes, mountains, and adventure activities. It's a gateway to the Annapurna region and offers a serene retreat with breathtaking views of the Himalayas.",
+      "image": "https://myrepublica.nagariknetwork.com/uploads/media/1677890826_pokharacity2-1200x560_20240113071938.jpg",
+      "bgimg": "https://www.andbeyond.com/wp-content/uploads/sites/5/pokhara-valley-nepal.jpg",
+      "map": "https://maps.wikimedia.org/img/osm-intl,9,28.2073,83.9833,270x200.png?lang=en&domain=en.wikipedia.org&title=Pokhara&revid=1236286117&groups=_bc266e431982f122c7910f9a11bd6d01587d8d8e",
+      "desc": "Pokhara Valley, located in central Nepal, is renowned for its stunning landscapes and outdoor activities. It serves as a base for trekkers heading to the Annapurna region and offers a range of attractions including serene lakes, panoramic mountain views, and adventure sports. The city is known for its relaxed atmosphere, picturesque lakes such as Phewa Lake, and the proximity to the majestic Himalayas. Visitors can enjoy boating, paragliding, and hiking while soaking in the natural beauty of the valley.",
+      "places": [
+        {
+          "name": "Phewa Lake",
+          "about": "Phewa Lake, also known as Fewa Lake, is a beautiful freshwater lake in Pokhara, renowned for its scenic beauty and serene environment. The lake is a popular spot for boating and offers stunning views of the surrounding mountains.",
+          "description": "Phewa Lake is a major attraction in Pokhara, famous for its picturesque setting and tranquil atmosphere. It is the second-largest lake in Nepal and offers a serene boating experience with breathtaking views of the Annapurna Range. Visitors can explore the Tal Barahi Temple located on an island in the lake and enjoy the surrounding gardens and cafes. The lake's calm waters and stunning reflections of the Himalayan peaks make it a perfect spot for relaxation and sightseeing.",
+          "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/62/71/2c/the-heart-soul-of-pokhara.jpg?w=1200&h=-1&s=1"
+        },
+        {
+          "name": "Sarangkot",
+          "about": "Sarangkot is a popular hilltop viewpoint near Pokhara, known for its panoramic views of the Annapurna and Dhaulagiri mountain ranges. It is a favored spot for sunrise and sunset views, as well as paragliding.",
+          "description": "Sarangkot is a prominent viewpoint located on a hilltop above Pokhara, offering breathtaking panoramic views of the Himalayas, including the Annapurna and Dhaulagiri ranges. It is a prime spot for watching the sunrise and sunset, providing spectacular vistas of the snow-capped peaks and the Pokhara Valley. Additionally, Sarangkot is a popular destination for paragliding, offering an exhilarating flight experience with stunning aerial views of the region.",
+          "img": "https://sunriseadventuretrek.com/admin/images/package/20230505135311image-sarangkot-photo-863x447.jpg"
+        },
+        {
+          "name": "World Peace Pagoda",
+          "about": "The World Peace Pagoda is a Buddhist stupa located on a hilltop overlooking Pokhara. It is a symbol of peace and offers panoramic views of the city and the surrounding mountains.",
+          "description": "The World Peace Pagoda, situated on a hilltop overlooking Pokhara, is a significant Buddhist stupa that symbolizes global peace. Built by Japanese monks, the pagoda offers panoramic views of Pokhara, Phewa Lake, and the surrounding Himalayan peaks. The serene environment and the spiritual ambiance of the pagoda make it a popular spot for meditation and reflection. Visitors can enjoy a peaceful walk around the stupa and take in the breathtaking vistas of the region.",
+          "img": "https://www.orphanednation.com/wp-content/uploads/2019/08/DSC_0719.jpg"
+        },
+        {
+          "name": "Davis Falls",
+          "about": "Davis Falls, also known as Patale Chhango, is a captivating waterfall located in Pokhara. It is known for its unique water flow that disappears into an underground tunnel.",
+          "description": "Davis Falls, locally known as Patale Chhango, is a remarkable waterfall in Pokhara, renowned for its unique phenomenon where the water cascades into an underground tunnel. The falls are named after a Swiss tourist who tragically fell into the chasm in 1961. The site features a natural pool at the base and is surrounded by lush greenery, offering a scenic and refreshing experience. It is a popular attraction for visitors looking to explore Pokhara's natural beauty.",
+          "img": "https://www.holidify.com/images/cmsuploads/compressed/Devis_Falls,_Pokhara_20190128112724.jpg"
+        },
+        {
+          "name": "Gupteshwor Cave",
+          "about": "Gupteshwor Cave is a significant religious site in Pokhara, featuring a sacred cave shrine dedicated to Lord Shiva. It is located near Davis Falls and is known for its impressive natural formations.",
+          "description": "Gupteshwor Cave is a sacred cave temple situated near Davis Falls in Pokhara. The cave is dedicated to Lord Shiva and is an important pilgrimage site for Hindus. It features stunning natural rock formations and a shrine with a Shiva Lingam. The cave's cool, damp interior provides a unique spiritual atmosphere, and visitors can explore the cave's winding passages and admire the natural stalactites and stalagmites.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/In_Gupteshwor_Cave.jpg/1200px-In_Gupteshwor_Cave.jpg"
+        }
+      ]
     },
     {
-      "id": "3",
-      "title": "Pokhara",
-      "weather": "cloudy",
-      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/bojgay4p9jxofskzlx6b",
-      "desc": "Discover the enchanting city of Pokhara, a serene oasis nestled in the heart of Nepal's panoramic Annapurna region. This tranquil paradise offers a harmonious blend of natural wonders and cultural experiences. Glide across the reflective waters of Phewa Lake, where the Annapurna mountains cast their grandeur upon the surface1. Ascend to the World Peace Pagoda, perched atop a hill, offering a vantage point for breathtaking views that promise to leave you spellbound2. Adventure seekers can revel in the thrill of paragliding amidst the Himalayan winds or trek the famous Annapurna Circuit. For those seeking solace, the sacred Barahi Temple and the profound International Mountain Museum beckon with tales of spirituality and mountaineering glory3. Pokhara is not just a destination; it's an experience that will captivate your heart and soul, urging you to return to its beauty time and again."
+      "id": 3,
+      "name": "Lumbini",
+      "description": "Lumbini is a sacred pilgrimage site in Nepal, known as the birthplace of Lord Buddha. It is a UNESCO World Heritage Site, featuring ancient temples, monasteries, and historical ruins that attract Buddhists and tourists from around the world.",
+      "image": "https://superdesk-pro-c.s3.amazonaws.com/sd-nepalitimes/2022110811118/636a2a979c7e80680e045926jpeg.jpg",
+      "bgimg": "https://upload.wikimedia.org/wikipedia/commons/1/18/BRP_Lumbini_Mayadevi_temple.jpg",
+      "map": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nepal_Lumbini_rel_location_map.svg/375px-Nepal_Lumbini_rel_location_map.svg.png",
+      "desc": "Lumbini, located in the Rupandehi District of Nepal, is revered as the birthplace of Siddhartha Gautama, who later became known as Buddha. This sacred site is one of the holiest places in Buddhism and attracts pilgrims and visitors from all over the world. Lumbini is home to the Mayadevi Temple, which marks the exact spot where Buddha was born. The temple complex includes ancient ruins, a sacred pond, and the Ashoka Pillar, erected by Emperor Ashoka in the 3rd century BCE to commemorate his visit. The surrounding area features numerous monasteries built by Buddhist communities from different countries, reflecting diverse architectural styles and spiritual traditions. The Lumbini Development Zone, designed by Japanese architect Kenzo Tange, includes tranquil gardens, meditation centers, and the Lumbini Museum, which houses artifacts related to Buddha's life and teachings. Lumbini's serene and spiritual atmosphere, combined with its historical significance, makes it a must-visit destination for those seeking peace, reflection, and a deeper understanding of Buddhism.",
+      "places": [
+        {
+          "name": "Mayadevi Temple",
+          "about": "The Mayadevi Temple is the most sacred site in Lumbini, marking the exact spot where Queen Mayadevi gave birth to Siddhartha Gautama, who became Buddha.",
+          "description": "The Mayadevi Temple is the centerpiece of Lumbini, the birthplace of Buddha. It marks the precise location where Queen Mayadevi gave birth to Siddhartha Gautama. The temple is surrounded by ancient ruins, including the remains of older structures that date back to the 3rd century BCE. A sacred pond and the Ashoka Pillar, which bears an inscription commemorating Emperor Ashoka's visit, are also located within the temple complex. The serene atmosphere and historical significance make it a focal point for Buddhist pilgrims and visitors.",
+          "img": "https://thehimalayantimes.com/uploads/imported_images/wp-content/uploads/2019/01/Maya-Devi-Temple-and-Pond-Lumbini.jpg"
+        },
+        {
+          "name": "Ashoka Pillar",
+          "about": "Erected by Emperor Ashoka in the 3rd century BCE, the Ashoka Pillar commemorates his visit to Lumbini and marks the birthplace of Buddha.",
+          "description": "The Ashoka Pillar in Lumbini is one of several pillars erected by Emperor Ashoka, who embraced Buddhism after a transformative war. This pillar is particularly significant as it marks the birthplace of Buddha. It bears an inscription in Brahmi script, which declares that Emperor Ashoka visited this sacred site. The pillar stands next to the Mayadevi Temple and is an important historical and religious monument, drawing pilgrims and history enthusiasts alike.",
+          "img": "https://i0.wp.com/www.littlethingstravel.com/wp-content/uploads/2017/08/The-Asoka-Pillar-Lumbini-Nepal-Birthplace-of-Buddha.jpg?ssl=1"
+        },
+        {
+          "name": "Lumbini Monastic Site",
+          "about": "The Lumbini Monastic Site is a collection of monasteries built by various Buddhist communities from around the world, each reflecting unique architectural styles and spiritual traditions.",
+          "description": "The Lumbini Monastic Site is an expansive area within the Lumbini Development Zone, dedicated to monasteries constructed by Buddhist communities from different countries. Each monastery showcases unique architectural styles, spiritual traditions, and cultural influences, reflecting the global diversity of Buddhism. Visitors can explore these monasteries, engage in meditation, and experience the serene and spiritual ambiance of this sacred site. The monastic site is a testament to the universal appeal and reverence for Lumbini among Buddhists worldwide.",
+          "img": "https://cdn.elebase.io/173fe953-8a63-4a8a-8ca3-1bacb56d78a5/faf89eb7-5769-48c7-8d1f-cb6641f9e550-westmon-inline-01.jpg?q=75.jpg"
+        },
+        {
+          "name": "Lumbini Museum",
+          "about": "The Lumbini Museum houses artifacts and exhibits related to the life and teachings of Buddha, providing insights into the historical and cultural significance of Lumbini.",
+          "description": "The Lumbini Museum is located within the Lumbini Development Zone and features a rich collection of artifacts and exhibits related to the life of Buddha. The museum provides historical context and insights into the significance of Lumbini as a pilgrimage site. Exhibits include ancient sculptures, inscriptions, coins, and other relics that shed light on the early history of Buddhism and its spread across Asia. The museum is a valuable resource for visitors seeking to deepen their understanding of Buddhism and the historical importance of Lumbini.",
+          "img": "https://www.historyhit.com/app/uploads/2020/11/shutterstock_1658351359-4.jpg"
+        },
+        {
+          "name": "Sacred Garden",
+          "about": "The Sacred Garden is a peaceful area within the Lumbini Development Zone, designed for meditation and reflection, featuring tranquil ponds, landscaped gardens, and ancient ruins.",
+          "description": "The Sacred Garden is a serene and beautifully landscaped area within the Lumbini Development Zone, designed to promote peace and meditation. It encompasses tranquil ponds, lush greenery, and ancient ruins that add to the spiritual ambiance of the site. The garden is an ideal place for visitors to relax, meditate, and reflect on the teachings of Buddha. The Sacred Garden's peaceful environment and historical significance make it a cherished part of the Lumbini pilgrimage experience.",
+          "img": "https://live.staticflickr.com/888/26176988347_1dde55c9c1_b.jpg"
+        }
+      ]
     },
     {
-      "id": "4",
-      "title": "Lumbini",
-      "weather": "sunny",
-      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/qgens4kwfaq8awf9mvsb",
-      "desc": "Lumbini, the revered birthplace of Lord Buddha, is a beacon of peace and spirituality that resonates with the echoes of enlightenment. Here, the Maya Devi Temple stands as a testament to the sacred origins of Buddhism, inviting pilgrims and tourists alike to witness the very spot where Queen Maya Devi gave birth to Siddhartha Gautama1. The Bodhi Tree, adorned with fluttering prayer flags, offers a serene space for meditation and reflection, while the Mayadevi Pond provides a tranquil setting for contemplation1. The Ashoka Pillar, erected by Emperor Ashoka himself, marks this hallowed ground with ancient inscriptions, further solidifying Lumbini's significance1. With its array of monasteries representing different Buddhist traditions from around the world, Lumbini is not just a destination; it's a journey through the spiritual heart of humanity, promising a profound and transformative experience for all who visit."
+      "id": 4,
+      "name": "Everest Region",
+      "description": "The Everest Region, also known as the Khumbu Region, is home to Mount Everest, the highest peak in the world. It offers stunning mountain scenery, rich Sherpa culture, and challenging trekking routes that attract adventurers from around the globe.",
+      "image": "https://www.thirdrockadventures.com/assets-back/images/news/everest-trek.jpgUVF.jpgD3c.jpg",
+      "bgimg": "https://www.trekkingplus.com/uploads/img/Everest-Base-Camp-Trek.jpg",
+      "map": "https://www.thirdrockadventures.com/assets-back/images/map/everest-base-camp-trek-map.jpg7ka.jpg",
+      "desc": "The Everest Region, also known as the Khumbu Region, is a renowned destination for trekkers and mountaineers. Located in northeastern Nepal, it is home to the world's highest peak, Mount Everest (8,848 meters). The region offers breathtaking views of snow-capped mountains, glaciers, and deep valleys. Trekkers can explore various trails, including the famous Everest Base Camp Trek, which provides a close encounter with the towering Everest and other majestic peaks. The region is also rich in Sherpa culture, with traditional villages, monasteries, and vibrant festivals. Key highlights include Namche Bazaar, Tengboche Monastery, and the Gokyo Lakes. The Everest Region is a paradise for adventure seekers and nature lovers, offering a unique blend of natural beauty, cultural heritage, and thrilling experiences.",
+      "places": [
+        {
+          "name": "Mount Everest",
+          "about": "Mount Everest, the highest peak in the world, is the ultimate destination for mountaineers and a symbol of human endeavor.",
+          "description": "Mount Everest, standing at 8,848 meters (29,029 feet), is the highest mountain on Earth and a legendary challenge for climbers from around the world. It is located in the Mahalangur Himal sub-range of the Himalayas, straddling the border between Nepal and the Tibet Autonomous Region of China. The journey to Everest involves a trek through the beautiful Khumbu Valley, passing through Sherpa villages and stunning landscapes. Reaching the summit of Everest is considered one of the greatest achievements in mountaineering.",
+          "img": "https://media.cnn.com/api/v1/images/stellar/prod/220203135111-mount-everest-2020-restricted.jpg?c=16x9&q=w_800,c_fill"
+        },
+        {
+          "name": "Everest Base Camp",
+          "about": "Everest Base Camp is a popular trekking destination, offering trekkers a close view of Mount Everest and the surrounding peaks.",
+          "description": "Everest Base Camp, situated at an altitude of 5,364 meters (17,598 feet), is a major destination for trekkers in the Everest Region. The trek to Base Camp is an exhilarating journey that passes through picturesque Sherpa villages, lush forests, and glacial moraines. Along the way, trekkers can experience the rich culture of the Sherpa people and enjoy spectacular views of Everest and other towering peaks. The trek culminates at Base Camp, where climbers prepare for their ascent to the summit.",
+          "img": "https://i.insider.com/62b220554245600018ddcf74?width=1136&format=jpeg"
+        },
+        {
+          "name": "Namche Bazaar",
+          "about": "Namche Bazaar is a vibrant Sherpa town and the main trading center in the Everest Region, serving as a hub for trekkers and climbers.",
+          "description": "Namche Bazaar, located at an altitude of 3,440 meters (11,286 feet), is the gateway to the Everest Region. It is a bustling market town where trekkers and climbers acclimatize before heading further up the trail. Namche offers a variety of amenities, including shops, restaurants, and lodges. The town is also an excellent place to learn about Sherpa culture, with its museums, monasteries, and traditional houses. The weekly market attracts traders from the surrounding villages, adding to the vibrant atmosphere.",
+          "img": "https://static.toiimg.com/photo/msid-103602360,width-96,height-65.cms"
+        },
+        {
+          "name": "Tengboche Monastery",
+          "about": "Tengboche Monastery is the largest and most important Buddhist monastery in the Everest Region, known for its stunning location and spiritual significance.",
+          "description": "Tengboche Monastery, situated at an altitude of 3,867 meters (12,687 feet), is a spiritual center for the Sherpa community and a significant landmark on the trek to Everest Base Camp. The monastery offers breathtaking views of Mount Everest, Ama Dablam, and other peaks. Visitors can witness the daily rituals and ceremonies performed by the monks, gaining insight into Tibetan Buddhism. The annual Mani Rimdu festival, held in Tengboche, attracts many pilgrims and tourists, featuring traditional dances, prayers, and celebrations.",
+          "img": "https://www.magicalnepal.com/wp-content/uploads/2021/05/tengboche.jpeg"
+        },
+        {
+          "name": "Gokyo Lakes",
+          "about": "The Gokyo Lakes are a series of high-altitude glacial lakes in the Everest Region, renowned for their stunning beauty and serene environment.",
+          "description": "The Gokyo Lakes, located at an altitude of about 4,700 meters (15,400 feet), are a series of turquoise glacial lakes set against the backdrop of snow-capped peaks. The trek to Gokyo Lakes is an alternative to the traditional Everest Base Camp trek, offering a quieter and equally spectacular experience. Trekkers can enjoy panoramic views of Everest, Cho Oyu, and other peaks from Gokyo Ri, a nearby viewpoint. The serene and pristine environment of the Gokyo Lakes makes it a perfect spot for reflection and nature appreciation.",
+          "img": "https://www.greatpanoramatreks.com/wp-content/uploads/2018/09/Gokyo-lake-trek-800x448.jpg"
+        }
+      ]
     },
     {
-      "id": "5",
-      "title": "Dharan",
-      "weather": "sunny",
-      "img": "https://res.cloudinary.com/soragatrasambandha/image/upload/f_auto,q_auto/v1/WanderMate/tv04birzzoi11uqqtmck",
-      "desc": "Dharan, a vibrant city at the foothills of the Mahabharata range, is a gateway to the eastern Himalayas and a melting pot of diverse cultures. Explore the sacred Budha Subba Temple, where wishes are believed to come true, or marvel at the Namaste Falls, cascading down to form a natural 'namaste'. The central Pindeshwor Temple invites you to witness the eternal flame and feel the spiritual energy during the auspicious months1. For breathtaking views, ascend the Vijayapur Hill, and let the panorama of the city and beyond captivate your senses. Whether you're seeking adventure, spirituality, or simply a taste of local life, Dharan's rich tapestry of experiences promises an unforgettable journey"
+      "id": 5,
+      "name": "Chitwan National Park",
+      "description": "Chitwan National Park, located in the subtropical inner Terai lowlands of south-central Nepal, is renowned for its diverse wildlife, lush forests, and unique ecosystem. It is a UNESCO World Heritage Site and one of the most popular safari destinations in Asia.",
+      "image": "https://images.articlesfactory.com/750x0/6b4acd8a-2a08-41c1-85e7-94c1b8475eae.webp",
+      "bgimg": "https://www.wendywutours.com/resource/upload/914/banner-chitwan-national-park.jpg",
+      "map": "https://www.mdpi.com/ijgi/ijgi-07-00369/article_deploy/html/images/ijgi-07-00369-g002.png",
+      "desc": "Chitwan National Park, established in 1973, covers an area of 932 square kilometers and is located in the subtropical inner Terai lowlands of south-central Nepal. It is a UNESCO World Heritage Site recognized for its exceptional biodiversity and unique ecosystems. The park is home to a wide variety of wildlife, including endangered species such as the Bengal tiger, one-horned rhinoceros, and Gharial crocodile. Visitors to Chitwan can experience jungle safaris, bird watching, and canoe rides, and visit local Tharu villages to learn about the indigenous culture. The park's lush forests, grasslands, and riverine landscapes offer a rich and immersive natural experience, making it a must-visit destination for nature enthusiasts and wildlife lovers.",
+      "places": [
+        {
+          "name": "Jungle Safari",
+          "about": "Jungle safaris in Chitwan National Park offer visitors the chance to see a wide variety of wildlife, including Bengal tigers, one-horned rhinoceroses, and various species of deer and birds.",
+          "description": "A jungle safari in Chitwan National Park is a thrilling adventure that allows visitors to explore the park's diverse ecosystems and encounter its rich wildlife. Safari options include jeep safaris, elephant-back safaris, and walking safaris. Experienced guides lead the tours, helping visitors spot animals such as Bengal tigers, one-horned rhinoceroses, sloth bears, and numerous bird species. The safaris provide an up-close and personal experience with nature, making it an unforgettable activity for wildlife enthusiasts.",
+          "img": "https://www.linkagetour.com/public/uploads/makutsi-inset4%20final.jpg"
+        },
+        {
+          "name": "Bird Watching",
+          "about": "Chitwan National Park is a paradise for bird watchers, with over 500 species of birds recorded, including both resident and migratory species.",
+          "description": "Chitwan National Park is renowned for its incredible birdlife, making it a top destination for bird watchers. The park hosts over 500 species of birds, including the endangered Bengal florican, the giant hornbill, and various species of kingfishers, woodpeckers, and eagles. Bird watching tours are available, led by expert guides who help visitors spot and identify the diverse avian species. The park's varied habitats, including wetlands, grasslands, and forests, provide excellent opportunities for bird watching throughout the year.",
+          "img": "https://www.plannepal.com/uploads/2016/06/standard/370153286a1da5729d35e88a0d3bf547.jpg"
+        },
+        {
+          "name": "Canoe Ride",
+          "about": "A canoe ride on the Rapti or Narayani River offers a peaceful way to observe the aquatic and riparian wildlife of Chitwan National Park.",
+          "description": "Canoe rides in Chitwan National Park offer a serene and unique way to explore the park's riverine landscapes. These rides, typically conducted on the Rapti or Narayani River, allow visitors to observe the park's aquatic and riparian wildlife, including marsh mugger crocodiles, Gharial crocodiles, and a variety of bird species. The slow pace of the canoe allows for a peaceful and immersive experience, providing a different perspective of the park's natural beauty. Canoe rides are often combined with jungle walks, enhancing the overall wildlife viewing experience.",
+          "img": "https://www.rhinolandchitwan.com/images/canoe-ride/1.jpg"
+        },
+        {
+          "name": "Tharu Village Visit",
+          "about": "Visiting a Tharu village provides insight into the traditional lifestyle and culture of the Tharu people, the indigenous inhabitants of the Terai region.",
+          "description": "A visit to a Tharu village near Chitwan National Park offers an enriching cultural experience, allowing visitors to learn about the traditional lifestyle and customs of the Tharu people, the indigenous inhabitants of the Terai region. The Tharu community is known for its unique cultural practices, traditional dances, and distinctive architecture. Visitors can tour the village, interact with locals, and participate in cultural programs showcasing Tharu music and dance. This experience provides a deeper understanding of the local heritage and the harmonious relationship between the Tharu people and the natural environment.",
+          "img": "https://ishitaunblogged.com/wp-content/uploads/2012/05/751b8-dsc_0910-copy.jpg?w=594&h=397"
+        },
+        {
+          "name": "Elephant Breeding Center",
+          "about": "The Elephant Breeding Center in Chitwan National Park is dedicated to the conservation and breeding of elephants, providing a unique opportunity to learn about these majestic animals.",
+          "description": "The Elephant Breeding Center in Chitwan National Park is a significant conservation initiative focused on the breeding and care of elephants. Established to help increase the population of domesticated elephants, the center provides visitors with a unique opportunity to learn about the life cycle, behavior, and conservation efforts related to these majestic animals. Visitors can observe baby elephants with their mothers, watch feeding sessions, and learn about the challenges and successes of elephant conservation. The center aims to raise awareness about the importance of protecting elephants and their natural habitats.",
+          "img": "https://www.vivaanadventure.com/wp-content/uploads/2019/11/74881544_476393953220715_5750955355632917151_n.jpg"
+        }
+      ]
     },
     {
-      "id": "6",
-      "title": "not a random title anymore",
-      "weather": "sunny",
-      "img": "Solukhumbu",
-      "desc": "Nestled amidst the majestic Himalayas, Solukhumbu is a treasure trove of natural beauty and cultural richness. Home to the iconic Mount Everest, it beckons adventurers and peace-seekers alike with its serene landscapes and vibrant Sherpa heritage. Imagine embarking on the legendary Everest Base Camp trek, where each step unfolds panoramic vistas and brings you closer to the highest point on Earth."
+      "id": 6,
+      "name": "Annapurna Region",
+      "description": "The Annapurna Region in Nepal is a renowned trekking destination known for its stunning mountain vistas, diverse landscapes, and rich cultural experiences. It offers some of the most popular trekking routes in the world, including the Annapurna Circuit and Annapurna Base Camp trek.",
+      "image": "https://www.holymountaintreks.com/uploads/2018/01/Ghorepani-Ghandruk.jpg",
+      "bgimg": "https://www.indexadventure.com/uploads/img/anna1.jpg",
+      "map": "https://www.nepaltrekkinginhimalaya.com/images/articles/sz4wv-annapurna-round-trekking-map.jpg",
+      "desc": "The Annapurna Region, located in the central part of Nepal, is one of the most popular trekking destinations in the world. It offers a diverse range of trekking routes, from short and easy treks to challenging and remote ones. The region is named after the Annapurna mountain range, which includes some of the highest peaks in the world, such as Annapurna I (8,091 meters), Annapurna II (7,937 meters), and Machapuchare (6,993 meters). The region is not only known for its breathtaking mountain views but also for its rich biodiversity, including a variety of flora and fauna. Trekking in the Annapurna Region provides an opportunity to experience the local culture, visit traditional villages, and enjoy the hospitality of the Gurung, Magar, and Thakali people.",
+      "places": [
+        {
+          "name": "Annapurna Base Camp",
+          "about": "The Annapurna Base Camp trek is a popular and moderately challenging trek that takes you to the base camp of Annapurna I, offering spectacular views of the surrounding peaks.",
+          "description": "The Annapurna Base Camp (ABC) trek is a classic trek that combines diverse terrain, culture, and amazing scenery. Starting from the city of Pokhara, the trek passes through terraced fields, dense rhododendron forests, and high-altitude landscapes. The trail leads to the Annapurna Sanctuary, a high glacial basin surrounded by some of the highest peaks in the world. The base camp itself is situated at an altitude of 4,130 meters and offers panoramic views of Annapurna I, Annapurna South, Machapuchare, and Hiunchuli. The trek typically takes around 7 to 12 days to complete, depending on the route and pace of the trekker.",
+          "img": "https://www.civitatis.com/f/nepal/pokhara/trekking-annapurna-6-dias-589x392.jpg"
+        },
+        {
+          "name": "Annapurna Circuit",
+          "about": "The Annapurna Circuit is one of the most famous long-distance treks in the world, taking trekkers through a diverse range of landscapes and cultures as they circle the Annapurna massif.",
+          "description": "The Annapurna Circuit trek is a long-distance trek that circumnavigates the Annapurna massif, offering a variety of landscapes from lush subtropical forests and paddy fields to alpine meadows and high-altitude deserts. The trek typically starts from the town of Besisahar and follows the Marsyangdi River valley, crossing the Thorong La Pass at an altitude of 5,416 meters, before descending into the Kali Gandaki Valley. Along the way, trekkers pass through traditional villages, monasteries, and temples, experiencing the culture and hospitality of the local people. The Annapurna Circuit is renowned for its stunning mountain views, including those of Annapurna, Dhaulagiri, Manaslu, and Machapuchare.",
+          "img": "https://www.intrepidtravel.com/adventures/wp-content/uploads/2018/05/Hiker-800.jpg"
+        },
+        {
+          "name": "Poon Hill",
+          "about": "Poon Hill is a popular viewpoint in the Annapurna region, known for its panoramic sunrise views of the Annapurna and Dhaulagiri mountain ranges.",
+          "description": "Poon Hill, located at an altitude of 3,210 meters, is one of the most popular trekking destinations in the Annapurna region. The viewpoint offers stunning sunrise views over the Annapurna and Dhaulagiri mountain ranges. The trek to Poon Hill is relatively short and accessible, making it suitable for trekkers of all ages and fitness levels. The trek usually starts from the village of Nayapul and passes through beautiful rhododendron forests, terraced fields, and traditional Gurung villages. The sunrise view from Poon Hill is a highlight of the trek, with the golden rays of the sun illuminating the snow-capped peaks.",
+          "img": "https://www.linkagetour.com/public/uploads/poonhill%20trek.jpg"
+        },
+        {
+          "name": "Ghorepani",
+          "about": "Ghorepani is a popular stop on the Annapurna trekking routes, known for its traditional villages, vibrant rhododendron forests, and views of the surrounding mountains.",
+          "description": "Ghorepani is a charming village located at an altitude of 2,874 meters, known for its traditional stone houses, vibrant rhododendron forests, and stunning mountain views. It is a popular stop on the Annapurna trekking routes, particularly for those trekking to Poon Hill. The village is inhabited by the Gurung and Magar communities, and trekkers can experience their warm hospitality and rich culture. Ghorepani is also a great place to relax and acclimatize before continuing on to higher altitudes. The surrounding forests are particularly beautiful during the spring season when the rhododendrons are in full bloom.",
+          "img": "https://thehimalayantimes.com/uploads/imported_images/wp-content/uploads/2017/10/Ghorepani-Village-Dhaulagiri-mountain.jpg"
+        },
+        {
+          "name": "Muktinath",
+          "about": "Muktinath is a sacred pilgrimage site for both Hindus and Buddhists, located at an altitude of 3,800 meters in the Mustang district.",
+          "description": "Muktinath is a sacred pilgrimage site located at an altitude of 3,800 meters in the Mustang district. It is revered by both Hindus and Buddhists, and pilgrims from around the world visit the site to pay their respects. The main temple is dedicated to Lord Vishnu, and there are 108 water spouts and an eternal flame that burns continuously. The area around Muktinath offers stunning views of the surrounding mountains, and the journey to Muktinath is an adventure in itself, often involving a trek through the beautiful Kali Gandaki Valley. The cultural and spiritual significance of Muktinath, combined with its natural beauty, makes it a unique and memorable destination.",
+          "img": "https://www.pilgrimagetour.in/blog/wp-content/uploads/2023/09/Muktinath-Temple-Nepal.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Bandipur",
+      "description": "Bandipur is a charming hilltop town in Nepal that offers a perfect blend of history, culture, and natural beauty. It is known for its preserved traditional architecture, panoramic mountain views, and serene atmosphere.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/70/5e/a1/caption.jpg?w=500&h=400&s=1",
+      "bgimg": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_581446066_20190822130343_20190822154318.jpg",
+      "map": "https://live.staticflickr.com/8831/17916979134_058f71e054_b.jpg",
+      "desc": "Bandipur, located in the Tanahun district of Nepal, is a picturesque hilltop town that captivates visitors with its well-preserved traditional Newari architecture, stunning mountain views, and rich cultural heritage. Originally a Magar village, Bandipur became an important stop on the India-Tibet trade route, which contributed to its development as a thriving market town. Today, it is a popular destination for travelers seeking a peaceful retreat and an authentic cultural experience.",
+      "places": [
+        {
+          "name": "Tundikhel",
+          "about": "Tundikhel is a large open ground in Bandipur that offers panoramic views of the surrounding mountains, including the Himalayas.",
+          "description": "Tundikhel is a significant open ground in Bandipur that serves as a communal gathering space and a viewpoint. From here, visitors can enjoy sweeping views of the Himalayan range, including peaks such as Dhaulagiri, Annapurna, Manaslu, and Langtang. The area is also popular for picnics and morning or evening strolls, providing a serene environment to relax and take in the natural beauty.",
+          "img": "https://www.holymountaintreks.com//uploads/2020/02/tundikhel-Bandipur-.jpg"
+        },
+        {
+          "name": "Siddha Gufa",
+          "about": "Siddha Gufa is one of the largest caves in Nepal, located near Bandipur. It is known for its impressive stalactites and stalagmites.",
+          "description": "Siddha Gufa, located about an hour's walk from Bandipur, is one of the largest caves in Nepal and a major attraction for adventure enthusiasts. The cave stretches over 437 meters in length and has a height of approximately 50 meters. Inside, visitors can marvel at the impressive formations of stalactites and stalagmites, as well as various chambers and tunnels. Exploring the cave requires a guide and proper equipment, as parts of it can be quite challenging to navigate. The experience offers a thrilling glimpse into the subterranean world and is a highlight for many visitors to Bandipur.",
+          "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5f/ba/56/caption.jpg?w=1200&h=-1&s=1"
+        },
+        {
+          "name": "Thani Mai Temple",
+          "about": "Thani Mai Temple is a small yet significant temple located atop a hill in Bandipur, offering stunning sunrise and sunset views.",
+          "description": "Thani Mai Temple is a small but important religious site in Bandipur, perched on top of a hill known as Gurungche Hill. The temple is dedicated to the local deity, and it is a popular spot for both locals and tourists seeking to witness the spectacular sunrise and sunset views. The short hike to the temple is rewarding, as it provides a panoramic view of the surrounding hills and valleys. On clear days, visitors can also see the distant Himalayan peaks, making it a perfect spot for photography and quiet contemplation.",
+          "img": "https://www.insidehimalayas.com/wp-content/uploads/2020/03/The-Thani-Mai-Temple-on-Ghurunche-Hill.JPG_resized-1024x768.jpg"
+        },
+        {
+          "name": "Khadga Devi Temple",
+          "about": "Khadga Devi Temple is an important Hindu temple in Bandipur, known for housing a sacred sword believed to possess divine powers.",
+          "description": "Khadga Devi Temple is a prominent Hindu temple in Bandipur, renowned for its spiritual significance and historical value. The temple is dedicated to Khadga Devi and houses a sacred sword that is believed to possess divine powers. According to local legend, the sword was given to the King of Tanahun by the goddess herself and has been kept in the temple ever since. The temple attracts many devotees, especially during the festival of Navadurga, when special ceremonies and rituals are performed. Visitors to the temple can experience the deep religious fervor and gain insight into the local traditions and beliefs.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bandipur_%E2%80%93_Khadga_Devi_Temple_-_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Ilam",
+      "description": "Ilam, located in the eastern part of Nepal, is renowned for its lush tea gardens, beautiful landscapes, and vibrant culture. It is a popular destination for those seeking tranquility, scenic beauty, and a glimpse into the traditional Nepali lifestyle.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ilam_green.jpg",
+      "bgimg": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ilam_green.jpg",
+      "map": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw-oxBm_6-g2yxupnf1UtC-eTf7lxUpNUweVM6Url_KktjJKUvlF6SIn9V8OqOWmVt61kLo7niCS49wvHxf1Z7PrnJYjKJI_1dN15aquLmBDchPlPmz_VGq2DAE7-GjgERWc8xjD-2mgSw/s640/ilam_map.jpg",
+      "desc": "Ilam is a picturesque district in eastern Nepal, known for its rolling hills covered with lush tea gardens, dense forests, and charming rural landscapes. It is a major tea-producing region, and the sight of tea gardens stretching over the hills is a visual treat. Besides tea, Ilam is also famous for its cardamom, ginger, and dairy products. The district offers a peaceful retreat with its serene environment, making it a perfect destination for nature lovers and those seeking a break from the hustle and bustle of city life. The local culture, with its traditional practices and festivals, adds to the charm of Ilam.",
+      "places": [
+        {
+          "name": "Antu Danda",
+          "about": "Antu Danda offers breathtaking views of the sunrise and sunset over the hills and is a popular viewpoint in Ilam.",
+          "description": "Antu Danda, located at an altitude of 2,328 meters, is one of the most popular viewpoints in Ilam. It is renowned for its stunning sunrise and sunset views, which attract both locals and tourists. On clear days, visitors can enjoy panoramic views of the eastern Himalayas, including Mount Everest and Kanchenjunga. The area around Antu Danda is also known for its lush green tea gardens, dense forests, and traditional villages. It is a great place for photography, nature walks, and experiencing the local culture.",
+          "img": "https://i.ytimg.com/vi/T7gzQwePQjQ/maxresdefault.jpg"
+        },
+        {
+          "name": "Kanyam",
+          "about": "Kanyam is famous for its picturesque tea gardens and is a popular tourist destination in Ilam.",
+          "description": "Kanyam is one of the most famous tea estates in Ilam, known for its sprawling tea gardens that offer a picturesque landscape. The sight of neatly trimmed tea bushes covering the hills is a visual delight. Visitors can take leisurely walks through the tea gardens, learn about the tea production process, and enjoy the fresh mountain air. The area is also home to several traditional tea houses where visitors can taste freshly brewed local tea. Kanyam is a must-visit destination for anyone traveling to Ilam.",
+          "img": "https://naulotravels.com/wp-content/uploads/2018/08/img2tea-garden-1405502689.jpg"
+        },
+        {
+          "name": "Mai Pokhari",
+          "about": "Mai Pokhari is a pristine lake surrounded by lush forests and is considered a sacred site in Ilam.",
+          "description": "Mai Pokhari is a beautiful and serene lake located in the Ilam district. Surrounded by dense forests, the lake is considered a sacred site by both Hindus and Buddhists. It is home to a variety of flora and fauna, including several rare and endangered species. The area around Mai Pokhari is a protected forest reserve, making it an ideal spot for nature lovers and bird watchers. Visitors can enjoy peaceful walks around the lake, take part in religious rituals, and experience the tranquil beauty of the area.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mai_pokhari_ilam_10.jpg"
+        },
+        {
+          "name": "Sandakpur",
+          "about": "Sandakpur is a high-altitude viewpoint offering stunning views of the Himalayan range, including Mount Everest and Kanchenjunga.",
+          "description": "Sandakpur, located at an altitude of 3,636 meters, is one of the highest points in Ilam. It offers breathtaking views of the Himalayan range, including Mount Everest, Kanchenjunga, Lhotse, and Makalu. The viewpoint is accessible via a trekking route that passes through beautiful rhododendron forests and traditional villages. Sandakpur is a popular destination for trekkers, nature lovers, and photographers. The panoramic views of the snow-capped peaks, along with the serene and pristine environment, make Sandakpur a must-visit destination in Ilam.",
+          "img": "https://www.nepalsocialtreks.com/wp-content/uploads/2019/08/Sandakpur-Home-Stay-Trek.jpg"
+        },
+        {
+          "name": "Pathibhara Devi Temple",
+          "about": "Pathibhara Devi Temple is a significant religious site located in Ilam, attracting pilgrims from all over Nepal.",
+          "description": "Pathibhara Devi Temple is one of the most revered religious sites in eastern Nepal. Situated at an altitude of 3,794 meters, the temple is dedicated to the goddess Pathibhara. Pilgrims from all over Nepal and neighboring countries visit the temple to seek blessings and fulfill their wishes. The journey to the temple involves a trek through beautiful landscapes, including forests, streams, and traditional villages. The temple offers a serene and spiritual environment, with stunning views of the surrounding hills and mountains. It is a significant cultural and religious destination in Ilam.",
+          "img": "https://nepalish.com/wp-content/uploads/2023/05/Pathivara_Devi_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Rara Lake",
+      "description": "Rara Lake, the largest and deepest freshwater lake in Nepal, is situated in the remote northwestern part of the country. Surrounded by the Rara National Park, it offers stunning natural beauty, tranquil surroundings, and diverse flora and fauna.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAe-GGij2RhHN1NShcuThB6VesbkjCTb881w&s",
+      "bgimg": "https://miro.medium.com/v2/resize:fit:1358/0*6vTPxWCIse_u74im",
+      "map": "https://realworldadventures.com/wp-content/uploads/2017/05/rara_map.jpg",
+      "desc": "Rara Lake, located in the remote northwestern region of Nepal, is the country's largest and deepest freshwater lake. Encompassed by the Rara National Park, the lake sits at an altitude of 2,990 meters and spans an area of 10.8 square kilometers. The lake is known for its pristine blue waters, surrounded by pine, spruce, and juniper forests. It is a haven for bird watchers, nature enthusiasts, and trekkers seeking solitude and natural beauty. The surrounding Rara National Park is home to various wildlife species, including the endangered red panda and Himalayan black bear. Rara Lake is a must-visit destination for those looking to experience the unspoiled beauty of Nepal's wilderness.",
+      "places": [
+        {
+          "name": "Rara National Park",
+          "about": "Rara National Park surrounds Rara Lake and is home to diverse flora and fauna, including the endangered red panda and Himalayan black bear.",
+          "description": "Rara National Park, established in 1976, encompasses the beautiful Rara Lake and the surrounding alpine and subalpine regions. The park is home to over 500 different kinds of flowers, 20 species of mammals, and 214 species of birds. Key wildlife includes the red panda, Himalayan black bear, leopard, and various species of deer. The park's pristine environment and diverse ecosystems make it a significant conservation area and a paradise for nature lovers.",
+          "img": "https://www.raranationalpark.gov.np/images/1.jpg"
+        },
+        {
+          "name": "Chuchemara Hill",
+          "about": "Chuchemara Hill offers a panoramic view of Rara Lake, the surrounding mountains, and the lush green forests.",
+          "description": "Chuchemara Hill, standing at 4,087 meters, is the highest point in the Rara region and provides a stunning panoramic view of Rara Lake and the surrounding landscapes. The hill is a popular trekking destination, offering an adventurous climb and rewarding trekkers with breathtaking vistas of the lake, Rara National Park, and the distant snow-capped peaks of the Himalayas. The trek to Chuchemara Hill is an excellent opportunity for adventurers to experience the natural beauty and tranquility of the region.",
+          "img": "https://live.staticflickr.com/65535/52546374352_8154fa6b62_b.jpg"
+        },
+        {
+          "name": "Rara Lake Boating",
+          "about": "Boating on Rara Lake offers a serene experience, allowing visitors to enjoy the lake's crystal-clear waters and the surrounding natural beauty.",
+          "description": "Boating on Rara Lake is a tranquil and picturesque experience, offering visitors a unique perspective of the largest lake in Nepal. The crystal-clear waters reflect the surrounding pine and juniper forests, creating a serene and mesmerizing environment. Boating allows visitors to explore the lake's hidden corners and enjoy the peaceful ambiance, making it a must-do activity for anyone visiting Rara Lake.",
+          "img": "https://english.onlinekhabar.com/wp-content/uploads/2016/05/Rara-lake-4.jpg"
+        },
+        {
+          "name": "Murma Top",
+          "about": "Murma Top is a scenic viewpoint offering stunning views of Rara Lake, the surrounding valleys, and distant mountains.",
+          "description": "Murma Top, located at an altitude of approximately 3,700 meters, is a popular trekking destination and viewpoint in the Rara region. The viewpoint offers breathtaking panoramic views of Rara Lake, the lush green valleys, and the snow-capped peaks of the Himalayas. The trek to Murma Top passes through dense forests and traditional villages, providing trekkers with an immersive experience of the region's natural beauty and cultural heritage.",
+          "img": "https://media-cdn.tripadvisor.com/media/photo-s/1c/9d/a9/a6/view-from-murma-top.jpg"
+        },
+        {
+          "name": "Rara Village",
+          "about": "Rara Village is a traditional settlement near Rara Lake, offering a glimpse into the local lifestyle and culture.",
+          "description": "Rara Village is a small, traditional settlement located near Rara Lake. The village is home to the indigenous Thakuri people, who have preserved their unique culture and way of life. Visitors to Rara Village can experience the local lifestyle, traditions, and hospitality of the Thakuri community. The village is an excellent place to learn about the region's cultural heritage and enjoy the tranquil rural environment.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/cf/A_small_village_on_the_slope._-_panoramio.jpg"
+        }
+      ]
     }
   ],
   "hotels": [
@@ -103,29 +432,19 @@
       "freeCancellation": false,
       "reserveNow": true,
       "desc": "Marriott Hotel is a world-renowned 5-star hotel located in Kathmandu, offering luxurious accommodations, exceptional service, and a range of amenities. Guests can indulge in the hotel's opulent rooms and suites, featuring elegant decor, modern amenities, and stunning views of the city or the Himalayas. The hotel boasts multiple dining options, from fine dining restaurants to casual cafes, catering to diverse culinary preferences. Additionally, guests can unwind at the hotel's spa, stay active at the well-equipped fitness center, or take a dip in the outdoor pool, surrounded by lush gardens."
-    },
-    {
-      "id": "7",
-      "name": "Soaltee Crowne Plaza",
-      "price": 160,
-      "img": "https://lh4.googleusercontent.com/proxy/cguEeVMN81BkYeeUl8EpVCzts4PTtUcx1H2TSsw-5hzcHhYY3-DvdZviVpr3GrzSLAE4cG7qNqE",
-      "rating": 4,
-      "freeCancellation": true,
-      "reserveNow": false,
-      "desc": "Soaltee Crowne Plaza is a 4-star hotel located in Kathmandu, offering comfortable accommodations, a range of amenities, and exceptional service. The hotel features well-appointed rooms with modern amenities, ensuring a comfortable and enjoyable stay for guests. Guests can indulge in a variety of dining options, from international cuisine to local Nepali delicacies, catering to diverse tastes. The hotel also boasts a fitness center, a relaxing spa, and an outdoor pool, providing guests with ample opportunities for relaxation and rejuvenation."
     }
   ],
   "topDestinations": [
     {
       "id": "1",
-      "name": "Kathmandu Durbar Square",
+      "name": "Kathmandu Valley",
       "price": 500,
       "img": "https://i.pinimg.com/564x/51/b1/3b/51b13b5dd1f77fc278c8f361c761513c.jpg",
       "desc": "Kathmandu Durbar Square is the historic heart of Kathmandu with ancient temples, palaces and courtyards including the old royal palace."
     },
     {
       "id": "2",
-      "name": "Phewa Lake",
+      "name": "Pokhara Valley",
       "price": 400,
       "img": "https://i.pinimg.com/736x/48/a4/c3/48a4c3a26cb72cfcbdd5542a0d58fb17.jpg",
       "desc": "Phewa Lake is a large scenic lake in Pokhara with views of the Annapurna Range and activities like boating and paragliding."
@@ -146,7 +465,7 @@
     },
     {
       "id": "5",
-      "name": "Annapurna Base Camp",
+      "name": "Annapurna Region",
       "price": 300,
       "img": "https://i.pinimg.com/736x/3b/03/dd/3b03dd87e1e50684c8c35e7697afdc4a.jpg",
       "desc": "Annapurna Base Camp (ABC) is a popular trekking destination in Nepal, offering stunning views of the Annapurna massif, including Annapurna I and Machapuchare (Fishtail). The trek, which takes about 7 to 12 days, traverses diverse landscapes from lush forests to alpine meadows and provides an immersive experience of local culture and nature."
@@ -300,7 +619,8 @@
       "flag": "fi fi-us",
       "text": "Trekking to Everest Base Camp was a life-changing experience. The breathtaking views and warm hospitality of the Nepali people made this trip unforgettable.",
       "image": "https://media.istockphoto.com/id/1682296067/photo/happy-studio-portrait-or-professional-man-real-estate-agent-or-asian-businessman-smile-for.webp?b=1&s=170667a&w=0&k=20&c=V-RXoAk73ljzQZd0w_JcCFG-jlYs6sjpcrIZQ1TersQ=",
-      "rating": 5
+      "rating": 5,
+      "id": "2058"
     },
     {
       "name": "Rahul Patel",
@@ -308,7 +628,8 @@
       "flag": "fi fi-in",
       "text": "Pokhara stole my heart! The serene lakes, adventure sports, and the backdrop of the Annapurna range make it a perfect destination for both relaxation and excitement.",
       "rating": 4.5,
-      "image": "https://www.myhealthspecialist.com/assets/images/uploads/rahul-patel_rec.png"
+      "image": "https://www.myhealthspecialist.com/assets/images/uploads/rahul-patel_rec.png",
+      "id": "509a"
     },
     {
       "name": "Emma Larsson",
@@ -316,7 +637,8 @@
       "flag": "fi fi-se",
       "text": "The cultural richness of Kathmandu Valley amazed me. From ancient temples to vibrant markets, every corner tells a story. Nepal truly is a hidden gem!",
       "rating": 5,
-      "image": "https://media.licdn.com/dms/image/C5603AQEDPxq9Zi2v5g/profile-displayphoto-shrink_200_200/0/1602171563736?e=2147483647&v=beta&t=nVGEvK3zyMPJEv86WbtNkzj1mJGoELYWV_-4g8kd66A"
+      "image": "https://media.licdn.com/dms/image/C5603AQEDPxq9Zi2v5g/profile-displayphoto-shrink_200_200/0/1602171563736?e=2147483647&v=beta&t=nVGEvK3zyMPJEv86WbtNkzj1mJGoELYWV_-4g8kd66A",
+      "id": "887c"
     },
     {
       "name": "Hiroshi Tanaka",
@@ -324,8 +646,8 @@
       "flag": "fi fi-jp",
       "text": "Chitwan National Park offered an incredible wildlife experience. Seeing rhinos and tigers in their natural habitat was thrilling. Nepal's biodiversity is astounding.",
       "image": "https://i1.rgstatic.net/ii/profile.image/993256653475842-1613822248561_Q512/Hiroshi-Tanaka-14.jpg",
-
-      "rating": 4.8
+      "rating": 4.8,
+      "id": "107d"
     }
   ]
 }
